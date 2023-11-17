@@ -21,7 +21,7 @@ This version of `wc` is implemented in Rust, a language that I'm currently learn
 cc-wc -- filename
 ```
 
-## Note:
+## Note (Linux users):
 
 I'm on windows so probably there's no support for standard input.
 
