@@ -20,3 +20,8 @@ This version of `wc` is implemented in Rust, a language that I'm currently learn
 ```bash
 cc-wc -- filename
 ```
+
+## Note:
+
+I'm on windows so probably there's no support for standard input.
+
